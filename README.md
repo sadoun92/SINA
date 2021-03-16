@@ -1,2 +1,2 @@
 # SINA
-My work in SINA course 
+Social and Information Network Analysis 
